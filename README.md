@@ -47,28 +47,24 @@
       <br>Next.js
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="45" height="45" />
-      <br>Prisma
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Node.js" />
+      <br>Express
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="45" height="45" />
+      <br>Prisma
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="Bootstrap" />
+      <br>postgresql
     </td>
   </tr>
   <tr>
@@ -91,6 +87,10 @@
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Git" />
+      <br>AWS
     </td>
   </tr>
 </table>
