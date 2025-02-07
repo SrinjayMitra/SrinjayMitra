@@ -97,11 +97,11 @@
 <br><br>
 </div>
 
-<h3 align="center"><samp>🎻 GitHub Stats</samp></h3>
+<!-- <h3 align="center"><samp>🎻 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
-</div>
+</div> -->
 
 <h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
 <div>
