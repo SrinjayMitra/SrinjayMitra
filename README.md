@@ -21,16 +21,22 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-   <td align="center" width="100">
+   <td align="center" width="100" >
+   <a href="https://www.linkedin.com/in/srinjay-mitra/" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+    </a>    
       <br>Linkedin
     </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Twitter" />
+       <a  href="https://discord.gg/srinjay.mn"  target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord" />
+        </a>
       <br>Discord
     </td>
     <td align="center" width="100">
+    <a href="https://github.com/SrinjayMitra" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+     </a>   
       <br>Github
     </td>
   </tr>
